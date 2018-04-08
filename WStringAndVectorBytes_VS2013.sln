@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WStringAndVectorBytes_VS2013", "WStringAndVectorBytes_VS2013\WStringAndVectorBytes_VS2013.vcxproj", "{73993B81-2878-4ED9-A70C-E0DE76B6CFE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73993B81-2878-4ED9-A70C-E0DE76B6CFE1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{73993B81-2878-4ED9-A70C-E0DE76B6CFE1}.Debug|Win32.Build.0 = Debug|Win32
+		{73993B81-2878-4ED9-A70C-E0DE76B6CFE1}.Release|Win32.ActiveCfg = Release|Win32
+		{73993B81-2878-4ED9-A70C-E0DE76B6CFE1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
